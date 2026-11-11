@@ -1,0 +1,353 @@
+--------------------------------------------------
+
+PRODUCT: REMAN OVA
+
+CATEGORY: PCOS / Fertility Support
+
+SALTS:
+- Myo-Inositol 550mg
+- D-Chiro Inositol 13.8mg
+- L-Methylfolate 400mcg
+- N-Acetylcysteine 500mg
+- Chromium Picolinate 10mcg
+
+INDICATIONS:
+- Improves pregnancy rate
+- PCOS
+- Restores ovulatory activity
+- Improves insulin sensitivity
+- Supports lipid levels
+- Reduces risk of gestational diabetes
+
+BUSINESS_IMPORTANCE:
+High-repeat fertility and hormonal balance product.
+Premium gynecology chronic-care segment.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: UTWASH
+
+CATEGORY: Feminine Hygiene
+
+SALTS:
+- Sea Buckthorn Oil
+- Tea Tree Oil
+
+INDICATIONS:
+- Maintains healthy vaginal flora
+- Prevents irritation and odor
+- Maintains vaginal pH 3.5
+- Vaginal dryness and itchiness
+
+BUSINESS_IMPORTANCE:
+Daily-use feminine hygiene product with strong repeat purchase potential.
+
+DEMAND_TYPE:
+Recurring / Daily Use
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: R-VIT Q100
+
+CATEGORY: Antioxidant / Hormonal Health
+
+SALTS:
+- Coenzyme Q10
+- Lycopene
+- Omega 3 Fatty Acid
+- Green Tea Extract
+- Cranberry Extract
+- Vitamins & Minerals
+
+INDICATIONS:
+- Hormonal balance
+- Oxidative stress
+- Hyperhomocysteinemia
+- Mineral deficiency
+
+BUSINESS_IMPORTANCE:
+Women's wellness and nutritional support product with premium positioning.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: RUBIFER-LXT
+
+CATEGORY: Hematinic / Iron Support
+
+SALTS:
+- Ferrous Ascorbate
+- L-Methylfolate
+- Cyanocobalamin
+- Zinc Sulphate
+- Folic Acid
+
+INDICATIONS:
+- Iron deficiency
+- Pregnancy & lactation
+- Acute/chronic blood loss
+- Chronic infections
+
+BUSINESS_IMPORTANCE:
+High-demand pregnancy hematinic product with broad prescription usage.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: NUROCAL-OD
+
+CATEGORY: Bone & Neuropathy Support
+
+SALTS:
+- Cholecalciferol 10000 IU
+- Methylcobalamin 1500mcg
+- Alpha Lipoic Acid 100mg
+- Folic Acid 1.5mg
+- Pyridoxine 3mg
+
+INDICATIONS:
+- Diabetic neuropathy
+- Osteoporosis
+- Diabetes
+- Oxidative stress
+- Numbness and burning feet
+
+BUSINESS_IMPORTANCE:
+Strong chronic-care product with high repeat consumption and stable demand.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Orthopedic / Physician
+
+--------------------------------------------------
+
+PRODUCT: REMAN-PRO
+
+CATEGORY: Pregnancy Nutrition
+
+SALTS:
+- Protein with DHA
+- Methylcobalamin
+- Multivitamins
+- Antioxidants
+
+INDICATIONS:
+- Pregnancy
+- Lactation
+- Fetal development
+- Prevents PIH
+- Reduces preterm birth risk
+
+BUSINESS_IMPORTANCE:
+Premium maternal nutrition product with long pregnancy lifecycle usage.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: PRG-FORTE
+
+CATEGORY: Pregnancy Support
+
+SALTS:
+- L-Arginine 3gm
+- Proanthocyanidin 75mg
+- Folic Acid 5mg
+
+INDICATIONS:
+- Protection against pre-eclampsia
+- Improves fetal growth
+- Increases placental blood flow
+- Reduces blood pressure in pregnancy
+
+BUSINESS_IMPORTANCE:
+Specialized pregnancy-care product with targeted gynecology usage.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: REDIN
+
+CATEGORY: Hematinic
+
+SALTS:
+- Sodium Feredetate
+- Folic Acid
+- Vitamin B12
+
+INDICATIONS:
+- Iron deficiency anemia
+- Premenstrual syndrome
+- Anemia during pregnancy
+- Heavy menstrual blood loss
+
+BUSINESS_IMPORTANCE:
+Core anemia-management product with broad women's health applicability.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: GESTRON-200 SR
+
+CATEGORY: Hormonal Support
+
+SALTS:
+- Natural Micronized Progesterone SR
+
+INDICATIONS:
+- Maintenance of pregnancy
+- Osteoporosis prevention
+- Assure ovulation
+- Threatened abortion
+
+BUSINESS_IMPORTANCE:
+High-value hormonal therapy product with strong gynecology prescription dependence.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: ONCECAL
+
+CATEGORY: Bone Health
+
+SALTS:
+- Calcium Citrate
+- Vitamin D3
+- Zinc
+- Magnesium Hydroxide
+
+INDICATIONS:
+- Pregnancy & lactation
+- Osteoporosis
+- Osteomalacia
+- Fractures
+- Low back pain
+
+BUSINESS_IMPORTANCE:
+Large-volume calcium supplement product with broad orthopedic and gynecology usage.
+
+DEMAND_TYPE:
+Chronic
+
+TARGET_SPECIALTY:
+Orthopedic / Gynecology
+
+--------------------------------------------------
+
+PRODUCT: UT-MENS
+
+CATEGORY: Uterine Tonic
+
+SALTS:
+- Herbal Uterine Tonic Blend
+
+INDICATIONS:
+- Leucorrhea
+- Vaginal imbalance
+- Weakness
+- Vaginal pH correction
+
+BUSINESS_IMPORTANCE:
+Traditional gynecology tonic with recurring rural and semi-urban demand.
+
+DEMAND_TYPE:
+Recurring
+
+TARGET_SPECIALTY:
+Gynecology
+
+--------------------------------------------------
+
+PRODUCT: REMAN-SPAS
+
+CATEGORY: Pain Management / Antispasmodic
+
+SALTS:
+- Mefenamic Acid 250mg
+- Dicyclomine HCl 10mg
+
+INDICATIONS:
+- Functional bowel syndrome
+- IBS
+- Colicky abdominal pain
+- Dysmenorrhea
+- Osteoarthritis pain
+
+BUSINESS_IMPORTANCE:
+Acute symptom-relief product with broad prescription usage.
+
+DEMAND_TYPE:
+Acute
+
+TARGET_SPECIALTY:
+Gynecology / General Physician
+
+--------------------------------------------------
+
+PRODUCT: FUN-300
+
+CATEGORY: Digestive Enzyme
+
+SALTS:
+- Fungal Diastase
+- Thiamine
+- Riboflavin
+- Pyridoxine
+- Cyanocobalamin
+
+INDICATIONS:
+- Dyspepsia
+- Appetite loss
+- Flatulence
+- Indigestion
+
+BUSINESS_IMPORTANCE:
+General digestive support product with OTC potential.
+
+DEMAND_TYPE:
+Recurring
+
+TARGET_SPECIALTY:
+General Physician
+
+--------------------------------------------------

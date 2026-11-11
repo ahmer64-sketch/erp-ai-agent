@@ -1,0 +1,29 @@
+# secrets
+.env
+*.env
+!.env.example
+config_local.py
+
+# real business data (never commit) — the public repo runs on sample_data/
+/cleaned_erp_data.xlsx
+/reman/
+/Data/
+*.db
+*.xls
+*.xlsx
+!sample_data/**/*.xlsx
+~$*
+
+# logs and runtime state
+*.log
+query_log.jsonl
+.gradio/
+
+# python / os / ide
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.vscode/
+.idea/
+.claude/

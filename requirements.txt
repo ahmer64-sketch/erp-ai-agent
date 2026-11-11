@@ -1,0 +1,15 @@
+anthropic>=0.101
+openai>=2.0
+cohere>=6.0
+groq>=1.0
+google-genai>=2.0
+gradio>=6.0
+pandas>=2.2
+numpy>=1.26
+plotly>=6.0
+openpyxl>=3.1
+xlrd>=2.0
+python-dotenv>=1.0
+databricks-sql-connector>=4.0
+schedule>=1.2
+twilio>=9.0
